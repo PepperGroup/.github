@@ -14,7 +14,7 @@ Begin commits with a lowercase text tag from the following list:
 
 `refactor`: improving code without changing functionality 
 
-`style`: code formatting (whitepsace, indentation, &c.) 
+`style`: code formatting (whitespace, indentation, &c.) 
 
 `test`: a short-term commit for testing code on remote 
 
