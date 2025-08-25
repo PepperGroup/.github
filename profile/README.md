@@ -18,4 +18,4 @@ Begin commits with a lowercase text tag from the following list:
 
 `test`: a short-term commit for testing code on remote 
 
-cf: [https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716){target="_blank"}
+cf: [https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716){:target="_blank"}
