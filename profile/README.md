@@ -18,4 +18,4 @@ Begin commits with a lowercase text tag from the following list:
 
 `test`: a short-term commit for testing code on remote 
 
-cf: [https://medium.com/@aslandjc7/git-is-a-powerful-version-control-system-but-writing-clear-and-meaningful-commit-messages-is-48eebc428a00 ](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716?permalink_comment_id=3867882)
+cf: [https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716](https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716){target="_blank"}
