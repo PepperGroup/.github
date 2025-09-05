@@ -4,18 +4,18 @@
 ## Commit Tags
 Begin commits with a lowercase text tag from the following list: 
 
-`chore`: maintenance and non-code updates 
+`chore`: Maintenance and non-code updates 
 
-`docs`: documentation and commenting 
+`docs`: Documentation and commenting 
 
-`feat`: introducing a new feature or functionality 
+`feat`: Introducing a new feature or functionality 
 
-`fix`: resolving an issue or bug in the code
+`fix`: Resolving an issue or bug in the code
 
-`refactor`: improving code without changing functionality 
+`refactor`: Improving code without changing functionality 
 
-`style`: code formatting (whitespace, indentation, &c.) 
+`style`: Code formatting (whitespace, indentation, &c.) 
 
-`test`: a short-term commit for testing code on remote 
+`test`: Short-term test or update
 
 cf: <a href="https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716" target="_blank" rel="noopener">https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716</a> 
