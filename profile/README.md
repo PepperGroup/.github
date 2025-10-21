@@ -12,6 +12,12 @@ Begin commits with a lowercase text tag from the following list:
 
 `fix`: Resolving an issue or bug in the code
 
+`hard-code`: When a content section is hard-coded into a template versus editable from the back end 
+
+`important`: If `!important` was deployed
+
+`magic-numbers`: When a specific pixel value is used for load-bearing development, not great practice, and good to flag 
+
 `refactor`: Improving code without changing functionality 
 
 `style`: Code formatting (whitespace, indentation, &c.) 
